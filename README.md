@@ -20,9 +20,7 @@
 </p>
 
 ---
-
 ## 🎯 **ABOUT ME**
-
 <img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
 
 - 🔭 Currently working on **Advanced AI & Quantum Computing Projects**
@@ -35,99 +33,70 @@
 - 🎮 Hobbies: **Chess, Astronomy, and Building Cool Stuff**
 
 ---
-
 ## 💻 **TECH STACK & SKILLS**
-
 <div align="center">
 
 ### 🚀 **Languages**
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 **AI/ML & Data Science**
-
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
 ![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
+![OpenCV](https://img.shields.io/badge/opencv-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 ![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </div>
 
 ---
-
 ## 📊 **GITHUB STATS**
-
 <div align="center">
-  
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&langs_count=8&theme=radical">
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
 </div>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=radical&hide_border=false">
-  
-</div>
-
-<div align="center">
-  
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra1729yuvi&theme=redical&bg_color=20232a&hide_border=true">
-  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra1729yuvi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="800">
 </div>
 
 ---
-
 ## 🏆 **GITHUB ACHIEVEMENTS**
-
 <div align="center">
-  
-  <img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=radical&no-frame=false&no-bg=false&margin-w=4">
-  
+  <img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
 </div>
 
 ---
-
 ## ⚡ **RECENT ACTIVITIES**
-
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
 ---
-
 ## 📈 **CODING STATS**
-
 <div align="center">
-  
-  <img src="https://wakatime.com/share/@Nakshatra1729yuvi/c2ee5a0e-57c5-4552-9251-3d2f76bdb655.svg" width="48%">
-  <img src="https://wakatime.com/share/@Nakshatra1729yuvi/018568e5-7d34-4553-9a77-98ff522b8d41.svg" width="48%">
-  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nakshatra1729yuvi&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" width="400">
 </div>
 
 ---
-
 ### 🔥 **I'm always excited to collaborate on:**
-- 🧠 **AI/ML Research Projects**
-- 🔬 **Computer Vision Applications**
-- ⚛️ **Quantum Computing Experiments**
-- 🚀 **Open Source ML Libraries**
-- 📚 **Educational Content Creation**
-- 🏥 **Healthcare AI Solutions**
-- 🌍 **Social Impact Projects**
+- • 🧠 AI/ML Research Projects
+- • 🔬 Computer Vision Applications
+- • ⚛️ Quantum Computing Experiments
+- • 🚀 Open Source ML Libraries
+- • 📚 Educational Content Creation
+- • 🏥 Healthcare AI Solutions
+- • 🌍 Social Impact Projects
 
 ### 💌 **Interested in collaborating?**
 **Reach out to me! I'm always looking for passionate researchers and developers to work with on cutting-edge AI projects.**
 
 ---
-
 ## 🌐 **CONNECT WITH ME**
-
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nakshatra-sharma)
@@ -140,22 +109,29 @@
 </div>
 
 ---
-
 ## 🎵 **CURRENT MOOD**
-
 <div align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/spotify?background_color=0d1117&border_color=ffffff" alt="Spotify Playing">
+  
+🎵 **Currently vibing to: Zaya - Sapne Zaya Apne** 🎵
+
+[![Zaya - Sapne Zaya Apne](https://img.shields.io/badge/🎵%20Now%20Playing-Zaya%20-%20Sapne%20Zaya%20Apne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Music Vibes">
+  
 </div>
 
 ---
-
 ## 🚀 **MOTTO**
-
 <div align="center">
+  
   <h2>"Innovation distinguishes between a leader and a follower."</h2>
+  
   <h3>- Steve Jobs</h3>
+  
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+  
   <h3>💻 Building tomorrow's technology today 🌟</h3>
+  
 </div>
 
 ---
