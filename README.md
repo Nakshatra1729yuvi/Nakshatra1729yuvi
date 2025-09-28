@@ -1,27 +1,27 @@
 <!-- Dynamic Header with Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NAKSHATRA%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Coding%20the%20Future,%20One%20Repo%20at%20a%20Time%20🌟&descAlignY=51&descSize=20" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NAKSHATRA%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Coding%20the%20Future,%20One%20Repo%20at%20a%20Time%20🌟&descAlignY=51&descSize=20" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+%26+ML+Engineer;Quantum+Computing+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Researcher+%26+ML+Engineer;Quantum+Computing+Enthusiast;Open+Source+Contributor&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22&pause=1000"/>
 </h1>
 
 <!-- Animated Hand Wave -->
 <p align="center">
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
-  <strong>Welcome to my digital universe!</strong>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
+  **Welcome to my digital universe!**
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35px"/>
 </p>
 
 <!-- Visitor Badge -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nakshatra1729yuvi&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views">
-  <img src="https://img.shields.io/github/followers/Nakshatra1729yuvi?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers">
+  <img src="https://komarev.com/ghpvc/?username=Nakshatra1729yuvi&label=Profile%20Views&color=brightgreen&style=for-the-badge" alt="Profile Views"/>
+  <img src="https://img.shields.io/github/followers/Nakshatra1729yuvi?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers"/>
 </p>
 
 ---
 ## 🎯 **ABOUT ME**
-<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300">
+<img align="right" src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="300"/>
 
 - 🔭 Currently working on **Advanced AI & Quantum Computing Projects**
 - 🌱 Learning **Quantum Machine Learning & Neural Architecture Search**
@@ -56,18 +56,17 @@
 ---
 ## 📊 **GITHUB STATS**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" width="400">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=radical&hide_border=true" alt="GitHub Streak" width="400">
+<img src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="GitHub Stats" width="400"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="400"/>
 </div>
-
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra1729yuvi&theme=react-dark&hide_border=true&area=true" alt="Activity Graph" width="800">
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra1729yuvi&theme=tokyo-night&hide_border=true&area=true" alt="Activity Graph" width="800"/>
 </div>
 
 ---
 ## 🏆 **GITHUB ACHIEVEMENTS**
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies">
+<img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4" alt="GitHub Trophies"/>
 </div>
 
 ---
@@ -78,8 +77,7 @@
 ---
 ## 📈 **CODING STATS**
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="400">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Nakshatra1729yuvi&theme=radical&hide_border=true&layout=compact" alt="Wakatime Stats" width="400">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="400"/>
 </div>
 
 ---
@@ -116,31 +114,30 @@
 
 [![Zaya - Sapne Zaya Apne](https://img.shields.io/badge/🎵%20Now%20Playing-Zaya%20-%20Sapne%20Zaya%20Apne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
 
-<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Music Vibes">
-  
+<img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Music Vibes"/>
 </div>
 
 ---
 ## 🚀 **MOTTO**
 <div align="center">
   
-  <h2>"Innovation distinguishes between a leader and a follower."</h2>
+  ## "Innovation distinguishes between a leader and a follower."
   
-  <h3>- Steve Jobs</h3>
+  ### - Steve Jobs
   
-  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200"/>
   
-  <h3>💻 Building tomorrow's technology today 🌟</h3>
+  ### 💻 Building tomorrow's technology today 🌟
   
 </div>
 
 ---
 
 <!-- Animated Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&text=&fontSize=0" width="100%"/>
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Nakshatra1729yuvi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views">
+  <img src="https://komarev.com/ghpvc/?username=Nakshatra1729yuvi&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views"/>
 </div>
 
 ---
