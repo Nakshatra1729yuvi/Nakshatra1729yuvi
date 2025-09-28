@@ -112,7 +112,7 @@
   
 🎵 **Currently vibing to: Zaya - Sapne Zaya Apne** 🎵
 
-[![Zaya - Sapne Zaya Apne](https://img.shields.io/badge/🎵%20Now%20Playing-Zaya%20-%20Sapne%20Zaya%20Apne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=dQw4w9WgXcQ)
+[![Zaya - Sapne Zaya Apne](https://img.shields.io/badge/🎵%20Now%20Playing-Zaya%20-%20Sapne%20Zaya%20Apne-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://www.youtube.com/watch?v=W5IGWSnrc2A&pp=ygUUemF5YSBzYXBuZSB6YXlhIGFwbmU%3D)
 
 <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200" alt="Music Vibes"/>
 </div>
