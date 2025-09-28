@@ -51,87 +51,68 @@
 ![Scikit Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557c?style=for-the-badge&logo=python&logoColor=white)
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white)
-
-### 🌐 **Web Development**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-
-### ☁️ **Cloud & DevOps**
-
-![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326ce5?style=for-the-badge&logo=kubernetes&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=Keras&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626.svg?style=for-the-badge&logo=Jupyter&logoColor=white)
 
 </div>
 
 ---
 
-## 🏆 **FEATURED PROJECTS**
-
-### 🧠 **AI-Powered Medical Diagnosis System**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nakshatra1729yuvi&repo=ai-medical-diagnosis&theme=tokyonight)](https://github.com/Nakshatra1729yuvi/ai-medical-diagnosis)
-**Deep learning model for automated disease detection from medical imaging**
-
-### ⚛️ **Quantum Machine Learning Framework**  
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nakshatra1729yuvi&repo=quantum-ml-framework&theme=tokyonight)](https://github.com/Nakshatra1729yuvi/quantum-ml-framework)
-**Hybrid quantum-classical algorithms for optimization problems**
-
-### 🌐 **Real-time Collaboration Platform**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nakshatra1729yuvi&repo=realtime-collab&theme=tokyonight)](https://github.com/Nakshatra1729yuvi/realtime-collab)
-**Full-stack web application with WebSocket integration**
-
-### 🔬 **Computer Vision Research Tools**
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=Nakshatra1729yuvi&repo=cv-research-tools&theme=tokyonight)](https://github.com/Nakshatra1729yuvi/cv-research-tools)
-**Advanced image processing and analysis toolkit**
-
----
-
-## 📊 **GITHUB STATISTICS**
+## 📊 **GITHUB STATS**
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=tokyonight&hide_border=true" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages">
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Nakshatra1729yuvi&show_icons=true&theme=radical&include_all_commits=true&count_private=true">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nakshatra1729yuvi&layout=compact&langs_count=8&theme=radical">
+  
 </div>
-
----
-
-## 🏅 **GITHUB TROPHIES**
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=tokyonight&no-frame=true&column=7" alt="GitHub Trophies">
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nakshatra1729yuvi&theme=radical&hide_border=false">
+  
 </div>
-
----
-
-## 📈 **CONTRIBUTION GRAPH**
 
 <div align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Nakshatra1729yuvi&theme=tokyo-night&hide_border=true" alt="Contribution Graph">
+  
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Nakshatra1729yuvi&theme=redical&bg_color=20232a&hide_border=true">
+  
 </div>
 
 ---
 
-## 💡 **INSPIRATION QUOTE**
+## 🏆 **GITHUB ACHIEVEMENTS**
 
 <div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote">
+  
+  <img src="https://github-profile-trophy.vercel.app/?username=Nakshatra1729yuvi&theme=radical&no-frame=false&no-bg=false&margin-w=4">
+  
 </div>
 
 ---
 
-## 🎯 **COLLABORATION OPPORTUNITIES**
+## ⚡ **RECENT ACTIVITIES**
 
-<img align="right" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="300" alt="Collaboration">
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+## 📈 **CODING STATS**
+
+<div align="center">
+  
+  <img src="https://wakatime.com/share/@Nakshatra1729yuvi/c2ee5a0e-57c5-4552-9251-3d2f76bdb655.svg" width="48%">
+  <img src="https://wakatime.com/share/@Nakshatra1729yuvi/018568e5-7d34-4553-9a77-98ff522b8d41.svg" width="48%">
+  
+</div>
+
+---
 
 ### 🔥 **I'm always excited to collaborate on:**
-
 - 🧠 **AI/ML Research Projects**
 - 🔬 **Computer Vision Applications**
 - ⚛️ **Quantum Computing Experiments**
@@ -141,7 +122,6 @@
 - 🌍 **Social Impact Projects**
 
 ### 💌 **Interested in collaborating?**
-
 **Reach out to me! I'm always looking for passionate researchers and developers to work with on cutting-edge AI projects.**
 
 ---
@@ -172,15 +152,10 @@
 ## 🚀 **MOTTO**
 
 <div align="center">
-  
   <h2>"Innovation distinguishes between a leader and a follower."</h2>
-  
   <h3>- Steve Jobs</h3>
-  
   <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" width="200">
-  
   <h3>💻 Building tomorrow's technology today 🌟</h3>
-
 </div>
 
 ---
