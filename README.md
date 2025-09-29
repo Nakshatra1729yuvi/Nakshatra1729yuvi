@@ -28,9 +28,9 @@
 - 👯 Looking to collaborate on **Open Source AI/ML Projects**
 - 🤔 Interested in **Computer Vision & Healthcare AI**
 - 💬 Ask me about **Python, TensorFlow, PyTorch, React**
-- 📫 How to reach me: **nakshatra.sharma@example.com**
+- 📫 How to reach me: **nakshatrayadav1729@gmail.com**
 - ⚡ Fun fact: **I can debug code faster than I can solve a Rubik's cube!**
-- 🎮 Hobbies: **Chess, Astronomy, and Building Cool Stuff**
+- 🎮 Hobbies: **Badminton and Building Cool Stuff**
 
 ---
 ## 💻 **TECH STACK & SKILLS**
