@@ -1,5 +1,5 @@
 <!-- Dynamic Header with Wave Animation -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NAKSHATRA%20SHARMA&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Coding%20the%20Future,%20One%20Repo%20at%20a%20Time%20🌟&descAlignY=51&descSize=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=300&section=header&text=NAKSHATRA%20YADAV&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=🚀%20Coding%20the%20Future,%20One%20Repo%20at%20a%20Time%20🌟&descAlignY=51&descSize=20" width="100%"/>
 
 <!-- Animated Typing Effect -->
 <h1 align="center">
@@ -27,7 +27,7 @@
 - 🌱 Learning **Quantum Machine Learning & Neural Architecture Search**
 - 👯 Looking to collaborate on **Open Source AI/ML Projects**
 - 🤔 Interested in **Computer Vision & Healthcare AI**
-- 💬 Ask me about **Python, TensorFlow, PyTorch, React**
+- 💬 Ask me about **Python, TensorFlow, PyTorch**
 - 📫 How to reach me: **nakshatrayadav1729@gmail.com**
 - ⚡ Fun fact: **I can debug code faster than I can solve a Rubik's cube!**
 - 🎮 Hobbies: **Badminton and Building Cool Stuff**
@@ -40,7 +40,6 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🤖 **AI/ML & Data Science**
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
